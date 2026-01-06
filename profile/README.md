@@ -9,7 +9,7 @@
     
    <div align="center">
             We work at the intersection of backend engineering, system design, 
-            and intelligent automation**, with a strong production-first mindset. 
+            and intelligent automation, with a strong production-first mindset. 
   </div>
 
 ---
